@@ -106,3 +106,4 @@ It is not a substitute for a clinician; red flags and disclaimers are included t
 
 -   The Overpass API is public and rate-limited; nearby chemists may be empty if the API is unavailable.
 -   The server prints a warning if `OPENAI_API_KEY` is not set; the first tool call will fail in that case.
+# puch-ai-mcp-js
